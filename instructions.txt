@@ -4,3 +4,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rhoncus id mauris
 
 Please refer to the website for more instructions.
 
+Please refer to your local weatherstation for weather conditions.
